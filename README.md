@@ -27,16 +27,28 @@
     <td>2026-05-25</td>
   </tr>
   <tr>
-    <td><img src="images/azure-developer-associate.png"></td>
-    <td><a href="https://learn.microsoft.com/en-us/certifications/azure-developer-associate/">AZ-204 Azure Developer Associate</a></td>
-    <td>2023-08-20</td>
-    <td>2025-08-20</td>
+    <td><img src="images/microsoft-certified-azure-administrator-associate.png"></td>
+    <td><a href="https://learn.microsoft.com/en-us/users/klavrynenko/credentials/dbd184d8966b049a">AZ-104 Azure Administrator Associate</a></td>
+    <td>2020-02-25</td>
+    <td>2027-02-26</td>
   </tr>
   <tr>
-    <td><img src="images/microsoft-certified-azure-administrator-associate.png"></td>
-    <td><a href="https://learn.microsoft.com/en-us/certifications/azure-administrator-associate/">AZ-104 Azure Administrator Associate</a></td>
-    <td>2023-09-10</td>
-    <td>2025-09-10</td>
+    <td><img src="images/microsoft-certified-azure-security-engineer-associate.png"></td>
+    <td><a href="https://learn.microsoft.com/en-us/users/klavrynenko/credentials/5f09e8bc50591f75">AZ-500 Azure Security Engineer Associate</a></td>
+    <td>2021-06-25</td>
+    <td>2026-06-26</td>
+  </tr>
+  <tr>
+    <td><img src="images/microsoft-certified-azure-network-engineer-associate.png"></td>
+    <td><a href="https://learn.microsoft.com/en-us/users/klavrynenko/credentials/7bf645405c25fd06">AZ-700 Azure Network Engineer Associate</a></td>
+    <td>2025-07-06</td>
+    <td>2026-07-07</td>
+  </tr>
+  <tr>
+    <td><img src="images/azure-developer-associate.png"></td>
+    <td><a href="https://learn.microsoft.com/en-us/users/klavrynenko/credentials/9e029a64fa117785">AZ-204 Azure Developer Associate</a></td>
+    <td>2022-10-30</td>
+    <td>2026-10-31</td>
   </tr>
   <tr>
     <td><img src="images/microsoft-certified-azure-fundamentals.png"></td>

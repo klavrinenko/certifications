@@ -152,3 +152,50 @@
   </tr>
 </table>
 </details>
+<details>
+<summary>The Linux Foundation</summary>
+<table>
+  <tr>
+    <th width="10%">Badge</th>
+    <th width="40%">Certification</th>
+    <th width="15%">Earned</th>
+    <th width="15%">Expires</th>
+  </tr>
+  <tr>
+    <td><img src="images/cks-certified-kubernetes-security-specialist.png"></td>
+    <td><a href="https://www.credly.com/badges/0adbd867-5667-425b-bead-f9865e2debb6/public_url">CKS: Certified Kubernetes Security Specialist</a></td>
+    <td>2022-07-13</td>
+    <td>2024-07-13</td>
+  </tr>
+  <tr>
+    <td><img src="images/ckad-certified-kubernetes-application-developer.png"></td>
+    <td><a href="https://www.credly.com/badges/e1273a43-0695-4272-a6bc-1db3560fed84/public_url">CKAD: Certified Kubernetes Application Developer</a></td>
+    <td>2022-01-07</td>
+    <td>2025-01-07</td>
+  </tr>
+  <tr>
+    <td><img src="images/cka-certified-kubernetes-administrator.png"></td>
+    <td><a href="https://www.credly.com/badges/fb25bda2-8c53-43f6-ad0f-4a1e6ac70081/public_url">CKA: Certified Kubernetes Administrator</a></td>
+    <td>2020-06-27</td>
+    <td>2023-06-27</td>
+  </tr>
+  <tr>
+    <td><img src="images/lfcs-linux-foundation-certified-systems-administrator.2.png"></td>
+    <td><a href="https://www.credly.com/badges/7f546f3e-1556-44aa-b9ab-44c328310e75/public_url">LFCS: Linux Foundation Certified Systems Administrator</a></td>
+    <td>2023-12-09</td>
+    <td>2026-12-09</td>
+  </tr>
+  <tr>
+    <td><img src="images/lfca-linux-foundation-certified-it-associate.png"></td>
+    <td><a href="https://www.credly.com/badges/fcc0f05c-db1e-47ad-acc7-5115a78a50c7/public_url">LFCA: Linux Foundation Certified IT Associate</a></td>
+    <td>2023-10-01</td>
+    <td>2026-10-01</td>
+  </tr>
+  <tr>
+    <td><img src="images/pca-prometheus-certified-associate.png"></td>
+    <td><a href="https://www.credly.com/badges/7f47c7be-3c7b-42ff-a79a-6c2050a0c082/public_url">PCA: Prometheus Certified Associate</a></td>
+    <td>2023-01-08</td>
+    <td>2026-01-08</td>
+  </tr>
+</table>
+</details>

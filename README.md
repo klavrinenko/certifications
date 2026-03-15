@@ -1,5 +1,5 @@
 <details>
-<summary>Microsoft/Azure</summary>
+<summary><a href="https://learn.microsoft.com/en-us/users/klavrynenko/transcript/vnn82sp51q0q1e0?tab=credentials-tab">Microsoft/Azure</a></summary>
 
 <table>
   <tr>
@@ -39,6 +39,12 @@
     <td>2026-06-26</td>
   </tr>
   <tr>
+    <td><img src="images/microsoft-certified-identity-and-access-administrator-associate.png"></td>
+    <td><a href="https://learn.microsoft.com/en-us/users/klavrynenko/credentials/a3ade428b1f81db5">SC-300 Identity and Access Administrator Associate</a></td>
+    <td>2025-08-02</td>
+    <td>2026-08-03</td>
+  </tr>
+  <tr>
     <td><img src="images/microsoft-certified-azure-network-engineer-associate.png"></td>
     <td><a href="https://learn.microsoft.com/en-us/users/klavrynenko/credentials/7bf645405c25fd06">AZ-700 Azure Network Engineer Associate</a></td>
     <td>2025-07-06</td>
@@ -52,14 +58,20 @@
   </tr>
   <tr>
     <td><img src="images/microsoft-certified-azure-fundamentals.png"></td>
-    <td><a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/">AZ-900 Azure Fundamentals</a></td>
-    <td>2023-06-15</td>
+    <td><a href="https://learn.microsoft.com/en-us/users/klavrynenko/credentials/7618a65d05937c3c">AZ-900 Azure Fundamentals</a></td>
+    <td>2021-10-31</td>
+    <td>Lifetime</td>
+  </tr>
+  <tr>
+    <td><img src="images/microsoft-certified-security-compliance-and-identity-fundamentals.png"></td>
+    <td><a href="https://learn.microsoft.com/en-us/users/klavrynenko/credentials/574932aece126a15">SC-900 Security, Compliance, and Identity Fundamentals</a></td>
+    <td>2022-09-01</td>
     <td>Lifetime</td>
   </tr>
   <tr>
     <td><img src="images/azure-ai-fundamentals-600x600.png"></td>
-    <td><a href="https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/">AI-900 Azure AI Fundamentals</a></td>
-    <td>2023-07-05</td>
+    <td><a href="https://learn.microsoft.com/en-us/users/klavrynenko/credentials/c078bc8615005cd3">AI-900 Azure AI Fundamentals</a></td>
+    <td>2024-04-28</td>
     <td>Lifetime</td>
   </tr>
   <tr>
@@ -68,6 +80,23 @@
     <td>2023-10-12</td>
     <td>Lifetime</td>
   </tr>
+  <tr>
+    <td><img src="images/microsoft-365-fundamentals.png"></td>
+    <td><a href="https://learn.microsoft.com/en-us/users/klavrynenko/credentials/3cc8abbf7b06a206">MS-900 Microsoft 365 Certified: Fundamentals</a></td>
+    <td>2024-03-21</td>
+    <td>Lifetime</td>
+  </tr>
+  <tr>
+    <td><img src="images/CERT-Fundamentals-Power-Platform.png"></td>
+    <td><a href="https://learn.microsoft.com/en-us/users/klavrynenko/credentials/3cc8abbf7b06a206">PL-900 Power Platform Fundamentals</a></td>
+    <td>2024-02-19</td>
+    <td>Lifetime</td>
+  </tr>
+  <tr>
+    <td><img src="images/CERT-Fundamentals-Power-Platform.png"></td>
+    <td><a href="https://learn.microsoft.com/en-us/users/klavrynenko/credentials/3cc8abbf7b06a206">Microsoft® Certified Solutions Expert: Cloud Platform and Infrastructure Charter Member</a></td>
+    <td>2024-02-19</td>
+    <td>Lifetime</td>
+  </tr>
 </table>
-
 </details>

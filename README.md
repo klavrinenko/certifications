@@ -93,10 +93,39 @@
     <td>Lifetime</td>
   </tr>
   <tr>
-    <td><img src="images/CERT-Fundamentals-Power-Platform.png"></td>
-    <td><a href="https://learn.microsoft.com/en-us/users/klavrynenko/credentials/3cc8abbf7b06a206">Microsoft® Certified Solutions Expert: Cloud Platform and Infrastructure Charter Member</a></td>
-    <td>2024-02-19</td>
+    <td><img src="images/mcse-cloud-platform-and-infrastructure-certified-2016.png"></td>
+    <td><a href="https://www.credly.com/badges/190a98d2-cdc5-48c0-8800-7ff93ff26a46/public_url">MCSE: Cloud Platform and Infrastructure — Certified 2016</a></td>
+    <td>2016-09-26</td>
     <td>Lifetime</td>
+  </tr>
+  <tr>
+    <td><img src="images/mcsa-windows-server-2012-certified-2016.png"></td>
+    <td><a href="https://www.credly.com/badges/927b2b9b-3cf4-4830-adff-6c039deb42af/public_url">MCSA: Windows Server 2012 - Certified 2016</a></td>
+    <td>2014-04-03</td>
+    <td>Lifetime</td>
+  </tr>
+</table>
+</details>
+<details>
+<summary>Amazon/AWS</summary>
+<table>
+  <tr>
+    <th width="10%">Badge</th>
+    <th width="40%">Certification</th>
+    <th width="15%">Earned</th>
+    <th width="15%">Expires</th>
+  </tr>
+  <tr>
+    <td><img src="images/aws-certified-solutions-architect-associate.png"></td>
+    <td><a href="https://www.credly.com/badges/bfa81d47-fdbf-4e2e-955e-937053f59627/public_url">AWS Certified Solutions Architect – Associate</a></td>
+    <td>2024-09-15</td>
+    <td>2027-09-15</td>
+  </tr>
+  <tr>
+    <td><img src="images/aws-certified-cloud-practitioner.png"></td>
+    <td><a href="https://www.credly.com/badges/3d3ea2e2-dd2e-44bc-826c-4bb3d29a97a2/public_url">AWS Certified Cloud Practitioner</a></td>
+    <td>2024-07-20</td>
+    <td>2027-09-15</td>
   </tr>
 </table>
 </details>

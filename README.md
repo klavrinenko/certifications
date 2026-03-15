@@ -129,3 +129,26 @@
   </tr>
 </table>
 </details>
+<details>
+<summary>Google/GCP</summary>
+<table>
+  <tr>
+    <th width="10%">Badge</th>
+    <th width="40%">Certification</th>
+    <th width="15%">Earned</th>
+    <th width="15%">Expires</th>
+  </tr>
+  <tr>
+    <td><img src="images/google-cloud-architect.png"></td>
+    <td><a href="https://www.credly.com/badges/581763d6-9658-4338-8c5b-a2ff5c0c85a7">Professional Cloud Architect Certification</a></td>
+    <td>2023-09-11</td>
+    <td>2025-09-11</td>
+  </tr>
+  <tr>
+    <td><img src="images/google-cloud-engineer.png"></td>
+    <td><a href="https://www.credly.com/badges/61d9423a-8f19-466b-87bc-11d8a59608e9">Associate Cloud Engineer Certification</a></td>
+    <td>2020-06-18</td>
+    <td>2027-06-18</td>
+  </tr>
+</table>
+</details>

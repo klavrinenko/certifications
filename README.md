@@ -24,7 +24,7 @@
     <td><img src="images/microsoft-certified-devops-engineer-expert.png"></td>
     <td><a href="https://learn.microsoft.com/en-us/users/klavrynenko/credentials/b26fd6bde09437cd">AZ-400 DevOps Engineer Expert</a></td>
     <td>2020-07-28</td>
-    <td>2026-05-25</td>
+    <td>2027-05-26</td>
   </tr>
   <tr>
     <td><img src="images/microsoft-certified-azure-administrator-associate.png"></td>

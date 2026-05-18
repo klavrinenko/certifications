@@ -36,7 +36,7 @@
     <td><img src="images/microsoft-certified-azure-security-engineer-associate.png"></td>
     <td><a href="https://learn.microsoft.com/en-us/users/klavrynenko/credentials/5f09e8bc50591f75">AZ-500 Azure Security Engineer Associate</a></td>
     <td>2021-06-25</td>
-    <td>2026-06-26</td>
+    <td>2027-06-26</td>
   </tr>
   <tr>
     <td><img src="images/microsoft-certified-identity-and-access-administrator-associate.png"></td>
@@ -48,7 +48,7 @@
     <td><img src="images/microsoft-certified-azure-network-engineer-associate.png"></td>
     <td><a href="https://learn.microsoft.com/en-us/users/klavrynenko/credentials/7bf645405c25fd06">AZ-700 Azure Network Engineer Associate</a></td>
     <td>2025-07-06</td>
-    <td>2026-07-07</td>
+    <td>2027-07-07</td>
   </tr>
   <tr>
     <td><img src="images/azure-developer-associate.png"></td>

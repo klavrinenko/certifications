@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td><img src="images/azure-ai-associate.png"></td>
-    <td><a href="https://learn.microsoft.com/api/credentials/share/en-us/klavrynenko/F4E1D290D477033?sharingId=265571A1D11B78E7">AI-102 Azure AI Engineer Associate</a></td>
+    <td><a href="https://learn.microsoft.com/en-us/users/klavrynenko/credentials/f4e1d290d477033">AI-102 Azure AI Engineer Associate</a></td>
     <td>2026-05-20</td>
     <td>2027-05-21</td>
   </tr>
@@ -202,6 +202,23 @@
     <td><a href="https://www.credly.com/badges/7f47c7be-3c7b-42ff-a79a-6c2050a0c082/public_url">PCA: Prometheus Certified Associate</a></td>
     <td>2023-01-08</td>
     <td>2026-01-08</td>
+  </tr>
+</table>
+</details>
+<details>
+<summary>Platform Engineering</summary>
+<table>
+  <tr>
+    <th width="10%">Badge</th>
+    <th width="40%">Certification</th>
+    <th width="15%">Earned</th>
+    <th width="15%">Expires</th>
+  </tr>
+  <tr>
+    <td><img src="images/Introduction-to-Platform-Engineering.png"></td>
+    <td><a href="https://www.virtualbadge.io/certificate-validator?credential=eee78eca-5b95-46a4-9ecb-1e4731eb0d39">Introduction to Platform Engineering</a></td>
+    <td>2026-05-21</td>
+    <td>---</td>
   </tr>
 </table>
 </details>

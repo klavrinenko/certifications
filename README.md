@@ -27,6 +27,12 @@
     <td>2027-05-26</td>
   </tr>
   <tr>
+    <td><img src="images/azure-ai-associate.png"></td>
+    <td><a href="https://learn.microsoft.com/api/credentials/share/en-us/klavrynenko/F4E1D290D477033?sharingId=265571A1D11B78E7">AI-102 Azure AI Engineer Associate</a></td>
+    <td>2026-05-20</td>
+    <td>2027-05-21</td>
+  </tr>
+  <tr>
     <td><img src="images/microsoft-certified-azure-administrator-associate.png"></td>
     <td><a href="https://learn.microsoft.com/en-us/users/klavrynenko/credentials/dbd184d8966b049a">AZ-104 Azure Administrator Associate</a></td>
     <td>2020-02-25</td>

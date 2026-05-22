@@ -1,5 +1,5 @@
 <details>
-<summary><a href="https://learn.microsoft.com/en-us/users/klavrynenko/transcript/vnn82sp51q0q1e0?tab=credentials-tab">Microsoft/Azure</a></summary>
+<summary>Microsoft/Azure -><a href="https://learn.microsoft.com/en-us/users/klavrynenko/transcript/vnn82sp51q0q1e0?tab=credentials-tab">Full Transcript</a></summary>
 
 <table>
   <tr>

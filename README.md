@@ -48,7 +48,7 @@
     <td><img src="images/microsoft-certified-identity-and-access-administrator-associate.png"></td>
     <td><a href="https://learn.microsoft.com/en-us/users/klavrynenko/credentials/a3ade428b1f81db5">SC-300 Identity and Access Administrator Associate</a></td>
     <td>2025-08-02</td>
-    <td>2026-08-03</td>
+    <td>2027-08-03</td>
   </tr>
   <tr>
     <td><img src="images/microsoft-certified-azure-network-engineer-associate.png"></td>

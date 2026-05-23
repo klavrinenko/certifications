@@ -218,7 +218,13 @@
     <td><img src="images/Introduction-to-Platform-Engineering.png"></td>
     <td><a href="https://www.virtualbadge.io/certificate-validator?credential=eee78eca-5b95-46a4-9ecb-1e4731eb0d39">Introduction to Platform Engineering</a></td>
     <td>2026-05-21</td>
-    <td>---</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="images/Intro-AI-in-PE.png"></td>
+    <td><a href="https://www.virtualbadge.io/certificate-validator?credential=ddbc2878-d2f6-41f7-afb1-60dd3fee715e">Intro to AI in platform engineering</a></td>
+    <td>2026-05-22</td>
+    <td></td>
   </tr>
 </table>
 </details>

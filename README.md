@@ -226,5 +226,11 @@
     <td>2026-05-22</td>
     <td></td>
   </tr>
+  <tr>
+    <td><img src="images/GitOps-for-Platform-Engineering.png"></td>
+    <td><a href="https://www.virtualbadge.io/certificate-validator?credential=d198827e-017a-407d-a16c-227628a64184">GitOps for Platform Engineering</a></td>
+    <td>2026-05-28</td>
+    <td></td>
+  </tr>
 </table>
 </details>

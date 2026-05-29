@@ -1,5 +1,5 @@
 <details>
-<summary>Microsoft/Azure -> <a href="https://learn.microsoft.com/en-us/users/klavrynenko/transcript/vnn82sp51q0q1e0?tab=credentials-tab">Full Transcript</a></summary>
+<summary>Microsoft/Azure -> <a href="https://learn.microsoft.com/en-us/users/klavrynenko/transcript/vnn82sp51q0q1e0">Full Transcript</a></summary>
 
 <table>
   <tr>
@@ -18,7 +18,7 @@
     <td><img src="images/microsoft-certified-cybersecurity-architect-expert.png"></td>
     <td><a href="https://learn.microsoft.com/en-us/users/klavrynenko/credentials/6689e53e42ee2927">SC-100 Cybersecurity Architect Expert</a></td>
     <td>2022-08-25</td>
-    <td>2026-08-26</td>
+    <td>2027-08-26</td>
   </tr>
   <tr>
     <td><img src="images/microsoft-certified-devops-engineer-expert.png"></td>

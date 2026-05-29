@@ -159,6 +159,35 @@
 </table>
 </details>
 <details>
+<summary>KodeKloud</summary>
+<table>
+  <tr>
+    <th width="10%">Badge</th>
+    <th width="40%">Certification</th>
+    <th width="15%">Earned</th>
+    <th width="15%">Expires</th>
+  </tr>
+  <tr>
+    <td><img src="images/KK-100days-DevOps.jpg"></td>
+    <td><a href="https://engineer.kodekloud.com/certificate-verification/8fd1f56e-5690-4daa-ba0a-33f5b078db1e">100 Days of DevOps</a></td>
+    <td>2026-05-02</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="images/KK-100days-AWS.jpg"></td>
+    <td><a href="https://engineer.kodekloud.com/certificate-verification/777c1c26-7295-41a4-bb7b-10253a95a179">100 Days of Cloud (AWS)</a></td>
+    <td>2026-04-08</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="images/KK-100days-Azure.jpg"></td>
+    <td><a href="https://engineer.kodekloud.com/certificate-verification/1ee19780-e034-4080-a2a1-0bf099ff5029">100 Days of Cloud (Azure)</a></td>
+    <td>2026-04-21</td>
+    <td></td>
+  </tr>
+</table>
+</details>
+<details>
 <summary>The Linux Foundation</summary>
 <table>
   <tr>

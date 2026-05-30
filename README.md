@@ -159,6 +159,29 @@
 </table>
 </details>
 <details>
+<summary>HashiCorp</summary>
+<table>
+  <tr>
+    <th width="10%">Badge</th>
+    <th width="40%">Certification</th>
+    <th width="15%">Earned</th>
+    <th width="15%">Expires</th>
+  </tr>
+  <tr>
+    <td><img src="images/hashicorp-certified-terraform-associate-003.png"></td>
+    <td><a href="https://www.credly.com/badges/cafe6cf7-26ae-4e9f-a7cd-0cabd6a0aaa8">HashiCorp Certified: Terraform Associate (003)</a></td>
+    <td>2024-10-23</td>
+    <td>2026-10-23</td>
+  </tr>
+  <tr>
+    <td><img src="images/hashicorp-certified-terraform-associate-002.png"></td>
+    <td><a href="https://www.credly.com/badges/ddae9229-321c-4095-98a3-ea0c06b77c40">HashiCorp Certified: Terraform Associate (002)</a></td>
+    <td>2020-08-29</td>
+    <td>2023-06-30</td>
+  </tr>
+</table>
+</details>
+<details>
 <summary>KodeKloud</summary>
 <table>
   <tr>

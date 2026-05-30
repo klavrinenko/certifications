@@ -181,6 +181,28 @@
   </tr>
 </table>
 </details>
+<summary>Python Institute</summary>
+<table>
+  <tr>
+    <th width="10%">Badge</th>
+    <th width="40%">Certification</th>
+    <th width="15%">Earned</th>
+    <th width="15%">Expires</th>
+  </tr>
+  <tr>
+    <td><img src="images/pcap-31-03-pcap-certified-associate-in-python-programming.png"></td>
+    <td><a href="https://www.credly.com/badges/1c6823ed-1a02-4db5-9399-1084ea936722">[PCAP-31-03] PCAP™ – Certified Associate Python Programmer</a></td>
+    <td>2023-05-14</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="images/pcep-30-02-pcep-certified-entry-level-python-programmer.png"></td>
+    <td><a href="https://www.credly.com/badges/83df297c-613b-43f8-adb9-de2e740029f9">[PCEP-30-02] PCEP™ – Certified Entry-Level Python Programmer</a></td>
+    <td>2023-03-12</td>
+    <td></td>
+  </tr>
+</table>
+</details>
 <details>
 <summary>KodeKloud</summary>
 <table>

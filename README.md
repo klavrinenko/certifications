@@ -181,6 +181,7 @@
   </tr>
 </table>
 </details>
+<details>
 <summary>Python Institute</summary>
 <table>
   <tr>

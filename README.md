@@ -307,5 +307,11 @@
     <td>2026-05-28</td>
     <td></td>
   </tr>
+  <tr>
+    <td><img src="images/Cloud-Development-Environments-for-Platform-Engineers.png"></td>
+    <td><a href="https://www.virtualbadge.io/certificate-validator?credential=0a99841d-fb95-4ec9-8ad3-cf12e5afaed6">Cloud Development Environments for Platform Engineers</a></td>
+    <td>2026-06-01</td>
+    <td></td>
+  </tr>
 </table>
 </details>

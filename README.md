@@ -313,5 +313,10 @@
     <td>2026-06-01</td>
     <td></td>
   </tr>
-</table>
+  <tr>
+    <td><img src="images/Kubernetes-Cluster-Lifecycle-Management-in-PE.png"></td>
+    <td><a href="https://www.virtualbadge.io/certificate-validator?credential=51535991-80e2-4e42-96f9-babe0597349c">Kubernetes Cluster Lifecycle Management in Platform Engineering</a></td>
+    <td>2026-06-22</td>
+    <td></td>
+  </tr></table>
 </details>

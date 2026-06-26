@@ -234,7 +234,7 @@
 </table>
 </details>
 <details>
-<summary>The Linux Foundation</summary>
+<summary>The Linux Foundation -> <a href="https://openprofile.dev/profile/klavrinenko">Full Transcript</a></summary>
 <table>
   <tr>
     <th width="10%">Badge</th>

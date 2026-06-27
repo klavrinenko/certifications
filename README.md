@@ -318,11 +318,12 @@
     <td><a href="https://www.virtualbadge.io/certificate-validator?credential=51535991-80e2-4e42-96f9-babe0597349c">Kubernetes Cluster Lifecycle Management in Platform Engineering</a></td>
     <td>2026-06-22</td>
     <td></td>
-  </tr></table>
+  </tr>
   <tr>
     <td><img src="images/Vulnerability-Management-for-Platform-Engineers.png"></td>
     <td><a href="https://www.virtualbadge.io/certificate-validator?credential=2cf50c6a-1d5e-455b-a6d1-eba161fae2a6">Vulnerability Management for Platform Engineers</a></td>
     <td>2026-06-27</td>
     <td></td>
-  </tr></table>
+  </tr>
+</table>
 </details>

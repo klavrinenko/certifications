@@ -60,7 +60,7 @@
     <td><img src="images/azure-developer-associate.png"></td>
     <td><a href="https://learn.microsoft.com/en-us/users/klavrynenko/credentials/9e029a64fa117785">AZ-204 Azure Developer Associate</a></td>
     <td>2022-10-30</td>
-    <td>2026-10-31</td>
+    <td>2027-10-31</td>
   </tr>
   <tr>
     <td><img src="images/microsoft-certified-azure-fundamentals.png"></td>

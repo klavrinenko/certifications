@@ -168,6 +168,12 @@
     <th width="15%">Expires</th>
   </tr>
   <tr>
+    <td><img src="images/hashicorp-certified-vault-associate-003.png"></td>
+    <td><a href="https://www.credly.com/badges/6f445a2a-1763-4820-936e-42d515c440b0">HashiCorp Certified: Vault Associate (003)</a></td>
+    <td>2026-07-11</td>
+    <td>2028-07-11</td>
+  </tr>
+  <tr>
     <td><img src="images/hashicorp-certified-terraform-associate-003.png"></td>
     <td><a href="https://www.credly.com/badges/cafe6cf7-26ae-4e9f-a7cd-0cabd6a0aaa8">HashiCorp Certified: Terraform Associate (003)</a></td>
     <td>2024-10-23</td>

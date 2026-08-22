@@ -9,6 +9,12 @@
     <th width="15%">Expires</th>
   </tr>
   <tr>
+    <td><img src="images/github-copilot.svg"></td>
+    <td><a href="https://learn.microsoft.com/en-us/users/klavrynenko/credentials/99a6e9bfb3a08e02">GH-300 GitHub Copilot</a></td>
+    <td>2026-08-22</td>
+    <td>2028-08-23</td>
+  </tr>
+  <tr>
     <td><img src="images/microsoft-certified-solutions-architect-expert.png"></td>
     <td><a href="https://learn.microsoft.com/en-us/users/klavrynenko/credentials/624eb46a8492c982">AZ-305 Azure Solutions Architect Expert</a></td>
     <td>2021-05-08</td>

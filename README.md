@@ -243,6 +243,150 @@
     <td>2026-04-21</td>
     <td></td>
   </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/eec2d784-3cca-45cd-a1db-e095e6c685b5">GitHub Copilot Certification</a></td>
+    <td>2026-08-17</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/b5ba00f8-38a7-4dfa-b728-15cbec66586f">HashiCorp Certified: Vault Associate Certification</a></td>
+    <td>2026-07-04</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/07c90c84-fd8d-4599-b44e-261121f9107b">Crash Course: MCP For Beginners</a></td>
+    <td>2026-03-11</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/860bbe67-7431-41e1-be94-634775549de7">AI-102: Microsoft Certified Azure AI Engineer Associate</a></td>
+    <td>2026-02-18</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/77EB580F39-2DEAA176CF95-77DFC7B411">AWS Cloud Practitioner (CLF-C02)</a></td>
+    <td>2024-07-15</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/77EB580F39-85F5DC97BC-77DFC7B411">Linux Challenges</a></td>
+    <td>2023-12-08</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/77EB580F39-83B384B6A8-77DFC7B411">Prep Course - Linux Foundation Certified System Administrator (LFCS) Certification</a></td>
+    <td>2023-11-26</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/77EB580F39-7CB15C8535-77DFC7B411">PCAP - Python Certification Course</a></td>
+    <td>2023-05-13</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/77EB580F39-2D0B04FCA17E-77DFC7B411">Prep Course - Prometheus Certified Associate (PCA) Certification</a></td>
+    <td>2023-01-01</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/77EB580F39-2D08AAEAD492-77DFC7B411">GitOps with ArgoCD</a></td>
+    <td>2022-11-30</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/77EB580F39-7C93DACF9C-77DFC7B411">Istio Service Mesh</a></td>
+    <td>2022-07-19</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/77EB580F39-83B97AE75B-77DFC7B411">CKS - Challenges</a></td>
+    <td>2022-07-03</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/77EB580F39-85FBF1BFC8-77DFC7B411">Kubernetes Challenges</a></td>
+    <td>2022-07-02</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/77EB580F39-77F13E11BD-77DFC7B411">Certified Kubernetes Security Specialist (CKS)</a></td>
+    <td>2022-06-19</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/77EB580F39-7EE7E5F175-77DFC7B411">Helm for Beginners</a></td>
+    <td>2022-05-17</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/77EB580F39-77E5622F69-77DFC7B411">Terraform Basics Training Course</a></td>
+    <td>2022-04-07</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/77EB580F39-8153D8C2C8-77DFC7B411">Jenkins</a></td>
+    <td>2022-03-30</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/77EB580F39-77E553883D-77DFC7B411">Docker Training Course for the Absolute Beginner</a></td>
+    <td>2022-03-25</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/77EB580F39-77E5525083-77DFC7B411">Shell Scripts for Beginners</a></td>
+    <td>2022-03-20</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/77EB580F39-77E5529D11-77DFC7B411">DevOps Pre-Requisite Course</a></td>
+    <td>2022-03-17</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/77EB580F39-77E5525279-77DFC7B411">Learning Linux Basics Course & Labs</a></td>
+    <td>2022-02-27</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/77EB580F39-77E5CC89F5-77DFC7B411">Python Basics</a></td>
+    <td>2022-02-17</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/77EB580F39-77DFE72289-77DFC7B411">GIT for Beginners</a></td>
+    <td>2022-02-10</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/77EB580F39-77E561BA9E-77DFC7B411">Certified Kubernetes Administrator (CKA)</a></td>
+    <td>2022-01-16</td>
+    <td></td>
+  </tr>
 </table>
 </details>
 <details>

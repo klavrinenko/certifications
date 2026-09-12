@@ -245,6 +245,12 @@
   </tr>
   <tr>
     <td></td>
+    <td><a href="https://learn.kodekloud.com/learn/certificate/6b974bd5-9ca6-465b-bf66-369e9a4605eb">Kubernetes and Cloud-Native Associate (KCNA)</a></td>
+    <td>2026-09-12</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
     <td><a href="https://learn.kodekloud.com/learn/certificate/eec2d784-3cca-45cd-a1db-e095e6c685b5">GitHub Copilot Certification</a></td>
     <td>2026-08-17</td>
     <td></td>

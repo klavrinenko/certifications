@@ -423,6 +423,12 @@
     <td>2023-06-27</td>
   </tr>
   <tr>
+    <td><img src="images/KCNA_badge.png"></td>
+    <td><a href="https://www.credly.com/badges/7442258e-d39d-4b8b-adfb-98e4d6510463/public_url">KCNA: Kubernetes and Cloud Native Associate</a></td>
+    <td>2026-09-21</td>
+    <td>2028-09-20</td>
+  </tr>
+  <tr>
     <td><img src="images/lfcs-linux-foundation-certified-systems-administrator.2.png"></td>
     <td><a href="https://www.credly.com/badges/7f546f3e-1556-44aa-b9ab-44c328310e75/public_url">LFCS: Linux Foundation Certified Systems Administrator</a></td>
     <td>2023-12-09</td>

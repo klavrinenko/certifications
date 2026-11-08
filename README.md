@@ -193,6 +193,7 @@
   </tr>
 </table>
 </details>
+<details>
 <summary>Anthropic</summary>
 <table>
   <tr>

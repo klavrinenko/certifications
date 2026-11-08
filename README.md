@@ -193,6 +193,22 @@
   </tr>
 </table>
 </details>
+<summary>Anthropic</summary>
+<table>
+  <tr>
+    <th width="10%">Badge</th>
+    <th width="40%">Certification</th>
+    <th width="15%">Earned</th>
+    <th width="15%">Expires</th>
+  </tr>
+  <tr>
+    <td><img src="images/claude-code-in action.png"></td>
+    <td><a href="https://verify.skilljar.com/c/tbfschdk2fv6">Claude Code in Action</a></td>
+    <td>2026-01-23</td>
+    <td></td>
+  </tr>
+</table>
+</details>
 <details>
 <summary>Python Institute</summary>
 <table>
